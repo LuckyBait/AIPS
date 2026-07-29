@@ -3,7 +3,7 @@
 ## Vision
 - [x] Mission
 - [x] Principles
-- [ ] Goals
+- [x] Goals
 
 ## Architecture
 - [ ] Domain Model
