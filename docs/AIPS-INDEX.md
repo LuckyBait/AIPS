@@ -27,3 +27,6 @@
 
 ## Terminology
 - [x] Core Terms
+
+## Core Concepts
+- [x] Domain Concepts
