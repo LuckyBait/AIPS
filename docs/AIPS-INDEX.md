@@ -6,7 +6,7 @@
 - [x] Goals
 
 ## Architecture
-- [ ] Domain Model
+- [x] Domain Model
 - [x] Project State
 - [x] Decisions
 - [x] Work Items
