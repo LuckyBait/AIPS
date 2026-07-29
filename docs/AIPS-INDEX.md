@@ -10,7 +10,7 @@
 - [x] Project State
 - [x] Decisions
 - [x] Work Items
-- [ ] Evidence
+- [x] Evidence
 - [x] Change
 
 ## Standards
