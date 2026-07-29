@@ -1,1 +1,20 @@
-Initial decision: GitHub becomes the project source of truth
+id: DEC-0001
+
+title: GitHub becomes the project source of truth
+
+status: accepted
+
+date: 2026-07-29
+
+decision: |
+  GitHub is the primary source of project knowledge.
+  AI reads the project from the repository instead of relying on chat history.
+
+rationale: |
+  Chat history is not a reliable long-term knowledge base.
+  Git provides versioning, traceability and collaboration.
+
+consequences:
+  - Project knowledge is stored in GitHub.
+  - Chat is used only for discussion.
+  - Repository becomes the canonical source of information.
