@@ -1,8 +1,8 @@
 # AIPS Index
 
 ## Vision
-- [ ] Mission
-- [ ] Principles
+- [x] Mission
+- [x] Principles
 - [ ] Goals
 
 ## Architecture
