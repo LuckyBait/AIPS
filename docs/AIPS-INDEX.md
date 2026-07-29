@@ -9,7 +9,7 @@
 - [ ] Domain Model
 - [ ] Project State
 - [x] Decisions
-- [ ] Work Items
+- [x] Work Items
 - [ ] Evidence
 
 ## Standards
