@@ -7,10 +7,11 @@
 
 ## Architecture
 - [ ] Domain Model
-- [ ] Project State
+- [x] Project State
 - [x] Decisions
 - [x] Work Items
 - [ ] Evidence
+- [x] Change
 
 ## Standards
 - [x] Decision format
