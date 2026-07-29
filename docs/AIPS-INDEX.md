@@ -24,3 +24,6 @@
 
 ## Roadmap
 - [ ]
+
+## Terminology
+- [x] Core Terms
