@@ -8,7 +8,7 @@
 ## Architecture
 - [ ] Domain Model
 - [ ] Project State
-- [ ] Decisions
+- [x] Decisions
 - [ ] Work Items
 - [ ] Evidence
 
